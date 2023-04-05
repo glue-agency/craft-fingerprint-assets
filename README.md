@@ -6,4 +6,4 @@ Add fingerprints to your assets on update ☝️
 
 ## Requirements
 
-Craft CMS 3.1.0 or later.
+Craft CMS 4.0.0 or later.
